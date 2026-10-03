@@ -35,7 +35,7 @@ A web application for detecting potholes in road images using AI/ML and visualiz
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Harshithpalan/Pothole-Detection-Road-Quality-Mapping.git
 cd "Pothole Detection + Road Quality Mapping"
 ```
 
